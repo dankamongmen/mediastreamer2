@@ -35,6 +35,7 @@ Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
 /* new layout */
 # include <libavcodec/avcodec.h>
 # include <libavutil/avutil.h>
+# include <libavutil/mem.h>
 #else
 /* old layout */
 # include <ffmpeg/avcodec.h>
